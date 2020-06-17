@@ -31,3 +31,4 @@ Actions > Cloud189Checkin > build
 ![](http://tu.yaohuo.me/imgs/2020/06/b9e596c99f3835e0.png)
 
 此后，将会在每天10:00自动运行
+  
